@@ -1,0 +1,14 @@
+//    timer.rc
+
+#include <windows.h>
+#include "timer.h"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+TIMERMENU MENU DISCARDABLE 
+BEGIN
+    MENUITEM "èIóπ",                        IDM_END
+END
