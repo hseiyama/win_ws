@@ -8,9 +8,9 @@
                 "C:\\mingw64\\include\\DxLib"
             ],
             "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
+                //"_DEBUG",
+                //"UNICODE",
+                //"_UNICODE"
             ],
             "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
             "cStandard": "c17",

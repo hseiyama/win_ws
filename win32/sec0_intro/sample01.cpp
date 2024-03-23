@@ -1,6 +1,5 @@
 //    sample01.cpp
 
-#undef UNICODE
 #include <windows.h>
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);

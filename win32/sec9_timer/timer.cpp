@@ -1,6 +1,5 @@
 //        timer.cpp
 
-#undef UNICODE
 #include <windows.h>
 #include "timer.h"
 
