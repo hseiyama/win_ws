@@ -1,5 +1,5 @@
 # 生成する実行ファイル名
-TARGET = basic_sam06
+TARGET = basic_sam12
 
 # コンパイル対象とするCファイル
 SRCS = $(TARGET).cpp
